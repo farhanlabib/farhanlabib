@@ -12,9 +12,26 @@
     <a href="https://www.linkedin.com/in/farhan-labib/" title="LinkedIn Profile"><img width="22" height="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://medium.com/@farhan-labib" title="Medium"><img width="22" height="22" src="images/medium.png"> Medium</a></code>
   <code><a href="https://twitter.com/farhan_labib4" title="Twitter Profile"><img width="22" height="22" src="images/twitter.png"> Twitter</a></code>
-  <code><a href="https://www.hackerrank.com/farhan_labib4" title="Instagram Profile"><img width="22" height="22" src="images/hackerrank.png"> HackerRank</a></code>
+  <code><a href="https://www.hackerrank.com/farhan_labib4" title="HackerRank Profile"><img width="22" height="22" src="images/hackerrank.png"> HackerRank</a></code>
 </h5>
 <br>
+
+<p align="center">
+  Hi, I'm Farhan Labib, Software Quality Assurance Engineer from Bangladesh
+  <br>
+  <br>
+  🔬 I'm currently working at 10 Minute School
+  <br>
+  🎓 I graduated from East West University - Computer Science & Engineering Department
+  <br>
+  💻 I love testing Mobile and Web Apps
+  <br>
+  📚 I’m currently learning k6, Playwright
+  <br>
+  💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
+  <br>
+  📫 How to reach me: <a href="mailto: farhan.labib4@gmail.com">farhan.labib4@gmail.com</a>
+</p>
 
 
 
