@@ -15,10 +15,10 @@
   <code><a href="https://www.hackerrank.com/farhan_labib4" title="HackerRank Profile"><img width="22" height="22" src="images/hackerrank.png"> HackerRank</a></code>
 </h5> -->
 <h5 align="center">
-  <a href="https://www.linkedin.com/in/farhan-labib/" title="LinkedIn Profile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"> LinkedIn</a>
-  <a href="https://medium.com/@farhan-labib" title="Medium"><img src="https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=Medium&logoColor=white"> Medium</a>
-  <a href="https://twitter.com/farhan_labib4" title="Twitter Profile"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"> Twitter</a>
-  <a href="https://www.hackerrank.com/farhan_labib4" title="HackerRank Profile"><img src="https://img.shields.io/badge/HackerRank-00EA64.svg?style=for-the-badge&logo=HackerRank&logoColor=white"> HackerRank</a>
+  <a href="https://www.linkedin.com/in/farhan-labib/" title="LinkedIn Profile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
+  <a href="https://medium.com/@farhan-labib" title="Medium"><img src="https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=Medium&logoColor=white"></a>
+  <a href="https://twitter.com/farhan_labib4" title="Twitter Profile"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+  <a href="https://www.hackerrank.com/farhan_labib4" title="HackerRank Profile"><img src="https://img.shields.io/badge/HackerRank-00EA64.svg?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
 </h5>
 
 
