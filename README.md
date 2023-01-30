@@ -28,15 +28,15 @@
   Hi, I'm Farhan Labib, Software Quality Assurance Engineer from Bangladesh
   <br>
   <br>
-  🔬 I'm currently working at 10 Minute School
+  - 🔬 I'm currently working at 10 Minute School
   <br>
-  🎓 I graduated from East West University - Computer Science & Engineering Department
+  - 🎓 I graduated from East West University - Computer Science & Engineering Department
   <br>
-  💻 I love testing Mobile and Web Apps
+  - 💻 I love testing Mobile and Web Apps
   <br>
-  📚 I’m currently learning k6, Playwright
+  - 🌱 I’m currently learning k6, Playwright
   <br>
-  📫 How to reach me: <a href="mailto: farhan.labib4@gmail.com">farhan.labib4@gmail.com</a>
+  - 📫 How to reach me: <a href="mailto: farhan.labib4@gmail.com">farhan.labib4@gmail.com</a>
 </p>
 
 ### 🔨 Languages and Tools
