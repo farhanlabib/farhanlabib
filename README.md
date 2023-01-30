@@ -16,7 +16,7 @@
 </h5>
 <br>
 ### 🧐 More About Me:
-<p align="right">
+<p align="left">
   Hi, I'm Farhan Labib, Software Quality Assurance Engineer from Bangladesh
   <br>
   <br>
