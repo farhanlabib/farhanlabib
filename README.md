@@ -68,7 +68,7 @@
   </div>
   <br></br></br>
   
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=farhanlabib&theme=transparent&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=farhanlabib&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" width="100%"/>
 </p>
 
 <hr>
