@@ -47,6 +47,7 @@
 <a href="https://www.mysql.com/" target="_blank"> <img src="images/mysql.png" align="center" alt="mysql" height='42px'/> </a>
 <a href="https://www.java.com" target="_blank"><img align="center" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
 <a href="https://www.selenium.dev/" target="_blank"> <img src="images/selenium.png" align="center" alt="selenium" height='42px'/> </a>
+<a href="https://insomnia.rest/" target="_blank"> <img src="images/insomnia.png" align="center" alt="insomnia" height='42px'/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" align="center" alt="figma" height='42px'/> </a>
 
 </h5>
