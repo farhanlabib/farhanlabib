@@ -15,10 +15,10 @@
   <code><a href="https://www.hackerrank.com/farhan_labib4" title="HackerRank Profile"><img width="22" height="22" src="images/hackerrank.png"> HackerRank</a></code>
 </h5> -->
 <h5 align="center">
-  <a href="https://www.linkedin.com/in/farhan-labib/" title="LinkedIn Profile"><img width="22" height="22" src="images/linkedin.svg"> LinkedIn</a>
-  <a href="https://medium.com/@farhan-labib" title="Medium"><img width="22" height="22" src="images/medium.png"> Medium</a>
-  <a href="https://twitter.com/farhan_labib4" title="Twitter Profile"><img width="22" height="22" src="images/twitter.png"> Twitter</a>
-  <a href="https://www.hackerrank.com/farhan_labib4" title="HackerRank Profile"><img width="22" height="22" src="images/hackerrank.png"> HackerRank</a>
+  <a href="https://www.linkedin.com/in/farhan-labib/" title="LinkedIn Profile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"> LinkedIn</a>
+  <a href="https://medium.com/@farhan-labib" title="Medium"><img src="https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=Medium&logoColor=white"> Medium</a>
+  <a href="https://twitter.com/farhan_labib4" title="Twitter Profile"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"> Twitter</a>
+  <a href="https://www.hackerrank.com/farhan_labib4" title="HackerRank Profile"><img src="https://img.shields.io/badge/HackerRank-00EA64.svg?style=for-the-badge&logo=HackerRank&logoColor=white"> HackerRank</a>
 </h5>
 
 
@@ -50,7 +50,6 @@
 <a href="https://www.selenium.dev/" target="_blank"> <img src="images/selenium.png" align="center" alt="selenium" height='42px'/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" align="center" alt="figma" height='42px'/> </a>
 </h2>
-<br>
 
 
 
