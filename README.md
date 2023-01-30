@@ -34,6 +34,7 @@
 <hr>
 <h2 align="left">🔨 Languages and Tools</h2>
 <br>
+<p align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
 <a href="https://k6.io/" target="_blank"> <img src="images/k6.svg.png" align="left" alt="k6" height='42px'/> </a>
 <a href="https://playwright.dev/" target="_blank"> <img src="images/playwright.png" align="left" alt="playwright" height='42px'/> </a>
@@ -41,7 +42,7 @@
 <a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
 <a href="https://www.selenium.dev/" target="_blank"> <img src="images/selenium.png" align="left" alt="selenium" height='42px'/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
-
+</p>
 <br>
 
 
