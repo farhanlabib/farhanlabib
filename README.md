@@ -60,10 +60,10 @@
 <p align=center>
   <div align=center>
       <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=farhanlabib&show_icons=true&&theme=transparent&border_color=61dafb&hide_border=true" />
+      <img align="left" width=390 src="https://github-readme-stats.vercel.app/api?username=farhanlabib&show_icons=true&theme=transparent&border_color=61dafb&hide_border=true" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanlabib&hide=c%23,powershell,Mathematica,Hack,PHP,CSS,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&theme=transparent" />
+      <img width=390 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanlabib&hide=c%23,powershell,Mathematica,Hack,PHP,CSS,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&theme=transparent" />
     </a>
   </div>
   <br>
