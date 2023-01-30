@@ -24,7 +24,7 @@
 
 <br>
 
-<p align="left" style="font-family:Jetbrains Mono">
+<p align="left" style="font-family:Times New Roman">
   Hi, I'm Farhan Labib, Software Quality Assurance Engineer from Bangladesh
   <br>
   <br>
