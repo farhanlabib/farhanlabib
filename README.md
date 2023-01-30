@@ -16,7 +16,7 @@
 </h5>
 <br>
 
-<p align="left" style="font-family:Jetbrains Mono">
+<p style="font-family:Jetbrains Mono">
   Hi, I'm Farhan Labib, Software Quality Assurance Engineer from Bangladesh
   <br>
   <br>
