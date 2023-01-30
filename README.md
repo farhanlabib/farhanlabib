@@ -7,19 +7,15 @@
 </h1>
 
 <!-- Social icons section -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/farhan-labib/"><img width="32px" alt="LinkedIn" title="Youtube" src="images/linkedin.svg"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/farhan_labib4"><img width="32px" alt="Twitter" title="Twitter" src="images/twitter.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://medium.com/@farhan-labib"><img width="32px" alt="Medium" title="DenverCoder1 Dev.to" src="images/medium.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <!-- <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
-</p>
+<h5 align="center">
+  <code>
+    <a href="https://www.linkedin.com/in/farhan-labib/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://medium.com/@farhan-labib" title="Medium"><img width="22" src="images/medium.png"> Medium</a></code>
+  <code><a href="https://twitter.com/farhan_labib4" title="Twitter Profile"><img width="22" src="images/twitter.svg"> Twitter</a></code>
+  <code><a href="https://www.hackerrank.com/farhan_labib4" title="Instagram Profile"><img width="22" src="images/hackerrank.svg"> Instagram</a></code>
+</h5>
+<br>
 
-<br/>
 
 
 
