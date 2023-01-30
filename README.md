@@ -7,13 +7,21 @@
 </h1>
 
 <!-- Social icons section -->
-<h5 align="center">
+<!-- <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/farhan-labib/" title="LinkedIn Profile"><img width="22" height="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://medium.com/@farhan-labib" title="Medium"><img width="22" height="22" src="images/medium.png"> Medium</a></code>
   <code><a href="https://twitter.com/farhan_labib4" title="Twitter Profile"><img width="22" height="22" src="images/twitter.png"> Twitter</a></code>
   <code><a href="https://www.hackerrank.com/farhan_labib4" title="HackerRank Profile"><img width="22" height="22" src="images/hackerrank.png"> HackerRank</a></code>
+</h5> -->
+<h5 align="center">
+  <a href="https://www.linkedin.com/in/farhan-labib/" title="LinkedIn Profile"><img width="22" height="22" src="images/linkedin.svg"> LinkedIn</a>
+  <a href="https://medium.com/@farhan-labib" title="Medium"><img width="22" height="22" src="images/medium.png"> Medium</a>
+  <a href="https://twitter.com/farhan_labib4" title="Twitter Profile"><img width="22" height="22" src="images/twitter.png"> Twitter</a>
+  <a href="https://www.hackerrank.com/farhan_labib4" title="HackerRank Profile"><img width="22" height="22" src="images/hackerrank.png"> HackerRank</a>
 </h5>
+
+
 <br>
 
 <p align="left" style="font-family:Jetbrains Mono">
@@ -34,6 +42,7 @@
 <hr>
 <h2 align="left">🔨 Languages and Tools</h2>
 <br>
+<h2 align = "center">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="center" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
 <a href="https://k6.io/" target="_blank"> <img src="images/k6.svg.png" align="center" alt="k6" height='42px'/> </a>
 <a href="https://playwright.dev/" target="_blank"> <img src="images/playwright.png" align="center" alt="playwright" height='42px'/> </a>
@@ -42,6 +51,7 @@
 <a href="https://www.selenium.dev/" target="_blank"> <img src="images/selenium.png" align="center" alt="selenium" height='42px'/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" align="center" alt="figma" height='42px'/> </a>
 
+</h2>
 <br>
 
 
