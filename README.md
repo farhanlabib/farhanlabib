@@ -9,10 +9,10 @@
 <!-- Social icons section -->
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/farhan-labib/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://medium.com/@farhan-labib" title="Medium"><img width="22" src="images/medium.png"> Medium</a></code>
-  <code><a href="https://twitter.com/farhan_labib4" title="Twitter Profile"><img width="22" src="images/twitter.png"> Twitter</a></code>
-  <code><a href="https://www.hackerrank.com/farhan_labib4" title="Instagram Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
+    <a href="https://www.linkedin.com/in/farhan-labib/" title="LinkedIn Profile"><img width="22" height="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://medium.com/@farhan-labib" title="Medium"><img width="22" height="22" src="images/medium.png"> Medium</a></code>
+  <code><a href="https://twitter.com/farhan_labib4" title="Twitter Profile"><img width="22" height="22" src="images/twitter.png"> Twitter</a></code>
+  <code><a href="https://www.hackerrank.com/farhan_labib4" title="Instagram Profile"><img width="22" height="22" src="images/hackerrank.png"> HackerRank</a></code>
 </h5>
 <br>
 
