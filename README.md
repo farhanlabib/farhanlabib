@@ -28,8 +28,6 @@
   <br>
   📚 I’m currently learning k6, Playwright
   <br>
-  💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
-  <br>
   📫 How to reach me: <a href="mailto: farhan.labib4@gmail.com">farhan.labib4@gmail.com</a>
 </p>
 
