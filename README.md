@@ -6,6 +6,20 @@
   </a>
 </h1>
 
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/farhan-labib/"><img width="32px" alt="LinkedIn" title="Youtube" src="images/linkedin.svg"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/farhan_labib4"><img width="32px" alt="Twitter" title="Twitter" src="images/twitter.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://medium.com/@farhan-labib"><img width="32px" alt="Medium" title="DenverCoder1 Dev.to" src="images/medium.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <!-- <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
+</p>
+
+<br/>
 
 
 
