@@ -15,8 +15,8 @@
   <code><a href="https://www.hackerrank.com/farhan_labib4" title="HackerRank Profile"><img width="22" height="22" src="images/hackerrank.png"> HackerRank</a></code>
 </h5>
 <br>
-
-<p align="center">
+### 🧐 More About Me:
+<p align="right">
   Hi, I'm Farhan Labib, Software Quality Assurance Engineer from Bangladesh
   <br>
   <br>
