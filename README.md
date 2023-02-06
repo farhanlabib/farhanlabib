@@ -33,7 +33,7 @@
   <br>
   - 🎓 I graduated from East West University - Computer Science & Engineering Department
   <br>
-  - 💻 I love testing Mobile and Web Apps
+  - 💻 I love testing Web and Mobile Apps
   <br>
   - 🌱 I’m currently learning k6, Playwright
   <br>
@@ -67,7 +67,7 @@
       <img width=390 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanlabib&hide=c%23,powershell,Mathematica,Hack,PHP,CSS,Ruby,Objective-C,Objective-C%2b%2b,Cuda&langs_count=8&layout=compact&&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
     </a>
   </div>
-  <br><br><br><br>
+  <br><br><br><br><br><br><br>
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=farhanlabib&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&theme=gotham" width="100%"/>
 </p>
 
