@@ -21,6 +21,7 @@
   <a href="https://medium.com/@farhan-labib" title="Medium"><img src="https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=Medium&logoColor=white"></a>
   <a href="https://twitter.com/farhan_labib4" title="Twitter Profile"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
   <a href="https://www.hackerrank.com/farhan_labib4" title="HackerRank Profile"><img src="https://img.shields.io/badge/HackerRank-00EA64.svg?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
+    <a href="https://leetcode.com/u/farhanlabib/" title="Leetcode Profile"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
 </h5>
 
 
